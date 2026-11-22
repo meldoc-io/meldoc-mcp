@@ -1,6 +1,6 @@
 # Meldoc MCP server
 
-[![mcptry](https://mcptry.com/badge/io.meldoc/mcp)](https://mcptry.com/servers/io.meldoc/mcp)
+[![mcptry](https://mcptry.com/badge/io.meldoc/mcp)](https://mcptry.com/servers/io.meldoc/mcp) [![Meldoc MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.meldoc/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.meldoc/mcp)
 
 The official [Model Context Protocol](https://modelcontextprotocol.io) server for [Meldoc](https://meldoc.io), the docs-as-code platform for engineering teams. It lets an AI agent search, read and edit your team's documentation — the documentation that lives in Git next to your code — with the same permissions you have in the web app.
 
